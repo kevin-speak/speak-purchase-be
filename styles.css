@@ -31,6 +31,9 @@ a:hover { color: var(--blue-dark); }
 
 img { max-width: 100%; }
 
+/* Keep #anchor targets clear of the sticky nav */
+[id] { scroll-margin-top: 64px; }
+
 h1, h2, h3, p { margin: 0; }
 
 .container { max-width: 1200px; margin: 0 auto; }
