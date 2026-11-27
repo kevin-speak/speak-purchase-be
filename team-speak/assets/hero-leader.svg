@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 320" role="img" aria-label="leader">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7f93"/><stop offset="1" stop-color="#ef3f5f"/></linearGradient></defs>
+<ellipse cx="130" cy="304" rx="82" ry="9" fill="#0b1440" opacity=".18"/>
+<path d="M74 130 C34 176 14 236 20 296 C48 272 70 286 94 264 L166 264 C190 286 212 272 240 296 C246 236 226 176 186 130 Z" fill="#ffc93c"/>
+<path d="M94 264 C70 286 48 272 20 296 C22 270 30 246 44 226 Z M166 264 C190 286 212 272 240 296 C238 270 230 246 216 226 Z" fill="#f0a81a"/>
+<rect x="222" y="26" width="7" height="268" rx="3.5" fill="#c9d1ee"/><path d="M229 32 h-64 l16 22 l-16 22 h64 z" fill="#2f6bff" transform="translate(394 0) scale(-1 1) translate(0 0)"/><polygon points="196.0,43.0 198.9,50.0 206.5,50.6 200.8,55.5 202.5,62.9 196.0,59.0 189.5,62.9 191.2,55.5 185.5,50.6 193.1,50.0" fill="#fff" transform="translate(12 0)"/>
+<ellipse cx="102" cy="292" rx="24" ry="12" fill="#b0203c"/><ellipse cx="158" cy="292" rx="24" ry="12" fill="#b0203c"/>
+<path d="M52 170 C52 92 86 44 130 44 C174 44 208 92 208 170 L208 232 C208 268 178 286 130 286 C82 286 52 268 52 232 Z" fill="url(#b)"/>
+<path d="M60 160 Q130 196 200 160 L204 176 Q130 214 56 176 Z" fill="#ffc93c"/><circle cx="130" cy="190" r="7" fill="#f0a81a"/>
+<rect x="74" y="96" width="112" height="54" rx="27" fill="#fff"/>
+<rect x="108" y="111" width="10" height="24" rx="5" fill="#1b2559"/><rect x="142" y="111" width="10" height="24" rx="5" fill="#1b2559"/>
+<circle cx="130" cy="224" r="27" fill="#fff"/>
+<polygon points="130.0,205.0 134.4,215.9 146.2,216.7 137.1,224.3 140.0,235.8 130.0,229.5 120.0,235.8 122.9,224.3 113.8,216.7 125.6,215.9" fill="#ef3f5f"/>
+<path d="M96 52 l6 -30 l14 18 l14 -24 l14 24 l14 -18 l6 30 z" fill="#ffc93c" stroke="#f0a81a" stroke-width="4" stroke-linejoin="round"/>
+      <ellipse cx="204" cy="176" rx="16" ry="38" transform="rotate(-38 204 176)" fill="#ef3f5f"/><circle cx="225" cy="150" r="15" fill="#ff6079"/>
+      <ellipse cx="56" cy="214" rx="16" ry="34" transform="rotate(18 56 214)" fill="#ef3f5f"/>
+</svg>

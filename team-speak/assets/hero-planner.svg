@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 320" role="img" aria-label="planner">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a895ff"/><stop offset="1" stop-color="#7352f5"/></linearGradient></defs>
+<ellipse cx="130" cy="304" rx="82" ry="9" fill="#0b1440" opacity=".18"/>
+<path d="M74 130 C34 176 14 236 20 296 C48 272 70 286 94 264 L166 264 C190 286 212 272 240 296 C246 236 226 176 186 130 Z" fill="#22d3b6"/>
+<path d="M94 264 C70 286 48 272 20 296 C22 270 30 246 44 226 Z M166 264 C190 286 212 272 240 296 C238 270 230 246 216 226 Z" fill="#12a892"/>
+
+<ellipse cx="102" cy="292" rx="24" ry="12" fill="#4a30b8"/><ellipse cx="158" cy="292" rx="24" ry="12" fill="#4a30b8"/>
+<path d="M52 170 C52 92 86 44 130 44 C174 44 208 92 208 170 L208 232 C208 268 178 286 130 286 C82 286 52 268 52 232 Z" fill="url(#b)"/>
+<path d="M60 160 Q130 196 200 160 L204 176 Q130 214 56 176 Z" fill="#22d3b6"/><circle cx="130" cy="190" r="7" fill="#12a892"/>
+<rect x="74" y="96" width="112" height="54" rx="27" fill="#fff"/>
+<rect x="108" y="111" width="10" height="24" rx="5" fill="#1b2559"/><rect x="142" y="111" width="10" height="24" rx="5" fill="#1b2559"/>
+<circle cx="130" cy="224" r="27" fill="#fff"/>
+<circle cx="130" cy="224" r="15" fill="none" stroke="#7352f5" stroke-width="5"/><path d="M130 209 l5 13 l-5 13 l-5 -13 z" fill="#7352f5"/>
+<g transform="rotate(9 205 205)"><rect x="170" y="158" width="72" height="94" rx="9" fill="#fff" stroke="#1b2559" stroke-width="4"/><rect x="192" y="150" width="28" height="15" rx="5" fill="#1b2559"/>
+      <g stroke-linecap="round" stroke-width="5"><path d="M183 184 l5 5 l8 -9" fill="none" stroke="#22b89f"/><path d="M204 185 h26" stroke="#c9cfe0"/><path d="M183 206 l5 5 l8 -9" fill="none" stroke="#22b89f"/><path d="M204 207 h26" stroke="#c9cfe0"/><circle cx="189" cy="230" r="5" fill="none" stroke="#c9cfe0" stroke-width="4"/><path d="M204 230 h18" stroke="#c9cfe0"/></g></g>
+      <ellipse cx="196" cy="222" rx="16" ry="32" transform="rotate(-50 196 222)" fill="#7352f5"/>
+      <ellipse cx="60" cy="150" rx="16" ry="38" transform="rotate(28 60 150)" fill="#7352f5"/>
+      <g transform="rotate(-20 44 100)"><rect x="38" y="70" width="12" height="46" rx="3" fill="#ffc93c"/><path d="M38 70 l6 -13 l6 13 z" fill="#1b2559"/><rect x="38" y="108" width="12" height="9" rx="3" fill="#ff8fa3"/></g>
+</svg>

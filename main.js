@@ -77,6 +77,18 @@
       ],
       ai: 'Today’s review: 6 phrases you missed last week.',
       you: 'Let’s do it!'
+    },
+    // Team Speak page only (The Leader). No live demo yet, so it shows the sample roleplay.
+    'tutor-3': {
+      who: 'How it works',
+      title: '100+ workplace scenarios & business courses',
+      steps: [
+        { t: 'Pick the moment', d: 'Running a meeting, giving feedback, pitching to leadership — choose the situation you need to lead.' },
+        { t: 'Learn the playbook', d: 'Short, structured lessons give you the phrases and the flow that native-level leaders use.' },
+        { t: 'Lead it out loud', d: 'Run the full scene with the AI until you can open, steer and close it with confidence.' }
+      ],
+      ai: 'Thanks for joining, everyone. Who’s kicking us off today?',
+      you: 'I will. Three items on the agenda — let’s start with the launch timeline.'
     }
   };
 
